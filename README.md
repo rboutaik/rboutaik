@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rboutaik" alt="rboutaik" /></a> </p>
 
-- 🔭 I’m currently working on [minishell](github.com/rboutaik/)
+- 🔭 I’m currently working on [minishell](https://github.com/rboutaik?tab=repositories)
 
 - 🌱 I’m currently learning **executing shell commands with c through a shell-like program**
 
-- 👨‍💻 All of my projects are available at [github.com/rboutaik](github.com/rboutaik)
+- 👨‍💻 All of my projects are available at [github.com/rboutaik](https://github.com/rboutaik?tab=repositories)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rboutaik&show_icons=true&theme=dark&locale=en&layout=compact" alt="rboutaik" /></p>
 
 <h3 align="left">Connect with me:</h3>
